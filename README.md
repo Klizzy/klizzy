@@ -50,6 +50,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
+### Show some ❤️ by ⭐ some of my repositories!
 
 </div>
