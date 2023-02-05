@@ -22,7 +22,7 @@
 </a>
 </p>
 <hr/>
-I'm a Software Developer @ Valantic CEC Deutschland GmbH and an Symfony, IoT, DevOps, Automation and Smart Home enthusiast.
+I'm a Software Developer @ Valantic CEC Deutschland GmbH and an Symfony, IoT, DevOps and Smart Home enthusiast 👨🏻‍💻
 
   ---
 <p>
