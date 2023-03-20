@@ -31,15 +31,21 @@ I'm a Software Developer @ Valantic CEC Deutschland GmbH and an Symfony, IoT, De
 
 ### Boy Scout Rule
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.
 
  ---
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working mostly with Symfony, Shopware and Spryker within the E-Commerce context @work.
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- ❤️ &nbsp; Attending Hackathons, meetups & tech events.
-- 🔨 &nbsp; In my private time i linke to tinker with docker, node-red, homebridge and many other automation IoT / smart home technologies 
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
+- ❤️ &nbsp; Attending hackathons, meetups & tech events.
+- 🔨 &nbsp; In my private time i like to tinker with docker, node-red, homebridge and many other automation IoT / smart home technologies 
+
+---
+### 🗣️ My Talks
+- [Docker introduction](https://github.com/Klizzy/docker-introduction) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2018)
+- [Elasticsearch overview](https://github.com/nexusunited/valantic-revealjs/tree/elasticsearch-overview) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2020)
+- [Captainhook - git hooks management made easy](https://github.com/nexusunited/valantic-revealjs/tree/captainhook) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2022)
 
 ---
 
