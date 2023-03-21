@@ -2,7 +2,7 @@
     <a href="https://github.com/klizzy"><img alt="stz-logo" width="120" src="./assets/steven-zemelka-logo.png" /></a>
 </p>
 <h1 align="center">
-  Hello 👋, I'm Steven Zemelka
+  Hello, I'm Steven Zemelka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
 <a href="https://twitter.com/zyr0error" target="blank">
@@ -22,19 +22,25 @@
 </a>
 </p>
 <hr/>
+<p align="center">
 I'm a Software Developer @ Valantic CEC Deutschland GmbH and an Symfony, IoT, DevOps and Smart Home enthusiast 👨🏻‍💻
+</p>
 
   ---
 <p>
   <img width="250" align='left' src="./assets/hacktoberfest.png">
 </p>
 
-### Boy Scout Rule
+</div
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.
 
  ---
-### Talking about Personal Stuffs:
+ <div align="center">
+ 
+### Talking about Personal Stuff
+
+</div>
 
 - 🛠 &nbsp; I’m currently working mostly with Symfony, Shopware and Spryker within the E-Commerce context @work.
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
@@ -42,19 +48,26 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 - 🔨 &nbsp; In my private time i like to tinker with docker, node-red, homebridge and many other automation IoT / smart home technologies 
 
 ---
+
+<div align="center">
+
 ### 🗣️ My Talks
+
+</div>
+
 - [Docker introduction](https://github.com/Klizzy/docker-introduction) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2018)
 - [Elasticsearch overview](https://github.com/nexusunited/valantic-revealjs/tree/elasticsearch-overview) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2020)
 - [Captainhook - git hooks management made easy](https://github.com/nexusunited/valantic-revealjs/tree/captainhook) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2022)
 
 ---
+<div align="center">
 
 #### 📈 My GitHub Statistics
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=klizzy&show_icons=true&count_private=true&hide_title=true)
 
 
-<div align="center">
+
 
 ### Show some ❤️ by ⭐ some of my repositories!
 
