@@ -31,7 +31,7 @@ I'm a Software Developer @ Valantic CEC Deutschland GmbH and an Symfony, IoT, De
   <img width="250" align='left' src="./assets/hacktoberfest.png">
 </p>
 
-</div
+### Boy Scout Rule
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.
 
@@ -64,7 +64,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 #### 📈 My GitHub Statistics
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=klizzy&show_icons=true&count_private=true&hide_title=true)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=klizzy&show_icons=true&count_private=true&hide_title=true&theme=city_lights)
 
 
 
