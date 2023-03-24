@@ -58,6 +58,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 - [Docker introduction](https://github.com/Klizzy/docker-introduction) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2018)
 - [Elasticsearch overview](https://github.com/nexusunited/valantic-revealjs/tree/elasticsearch-overview) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2020)
 - [Captainhook - git hooks management made easy](https://github.com/nexusunited/valantic-revealjs/tree/captainhook) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2022)
+- [ChatGPT-3 - kickstart your productivity](https://github.com/nexusunited/valantic-revealjs/tree/chatgpt) - Company internal talk [@nexusunited](https://github.com/nexusunited) (2023)
 
 ---
 <div align="center">
