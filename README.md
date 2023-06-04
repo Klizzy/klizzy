@@ -8,8 +8,8 @@
 <a href="https://twitter.com/zyr0error" target="blank">
 <img src="https://img.shields.io/twitter/url?label=%40zyr0error&url=https%3A%2F%2Ftwitter.com%2Fzyr0error" alt="github-profile-readme--twitter" />
 </a>
-<a href="https:/www.linkedin.com/in/steven-zemelka-82807b279" target="blank">
-<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsteven-zemelka-82807b279" alt="https://www.linkedin.com/in/steven-zemelka-82807b279/" />
+<a href="https://www.linkedin.com/in/steven-zemelka-82807b279" target="blank">
+<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsteven-zemelka-82807b279%2F" alt="github-profile-readme-linkedin"/ />
 </a>
 <a href="https://www.xing.com/profile/Steven_Zemelka/" target="blank">
 <img src="https://img.shields.io/twitter/url?label=Xing&logo=xing&logoColor=%23006567&style=social&url=https%3A%2F%2Fwww.xing.com%2Fprofile%2FSteven_Zemelka%2F" alt="github-profile-readme-instagram"/>
