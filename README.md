@@ -73,6 +73,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 
 
-### Show some ❤️ by ⭐ some of my repositories!
+### Show some ❤️ by ⭐️ some of my repositories!
 
 </div>
