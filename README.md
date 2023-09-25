@@ -2,7 +2,7 @@
     <a href="https://github.com/klizzy"><img alt="stz-logo" width="120" src="./assets/steven-zemelka-logo.png" /></a>
 </p>
 <h1 align="center">
-  Hello, I'm Steven Zemelka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hello, I'm Steven Zemelka 👋
 </h1>
 <p align="center">
 <a href="https://twitter.com/zyr0error" target="blank">
