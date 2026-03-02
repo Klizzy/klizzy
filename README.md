@@ -5,24 +5,12 @@
   Hello, I'm Steven Zemelka 👋
 </h1>
 <p align="center">
-<a href="https://twitter.com/zyr0error" target="blank">
-<img src="https://img.shields.io/twitter/url?label=%40zyr0error&url=https%3A%2F%2Ftwitter.com%2Fzyr0error" alt="github-profile-readme--twitter" />
-</a>
-<a href="https://www.linkedin.com/in/steven-zemelka-82807b279" target="blank">
-<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsteven-zemelka-82807b279%2F" alt="github-profile-readme-linkedin"/ />
-</a>
-<a href="https://www.xing.com/profile/Steven_Zemelka/" target="blank">
-<img src="https://img.shields.io/twitter/url?label=Xing&logo=xing&logoColor=%23006567&style=social&url=https%3A%2F%2Fwww.xing.com%2Fprofile%2FSteven_Zemelka%2F" alt="github-profile-readme-instagram"/>
-</a>
-<a href="https://www.instagram.com/stvn_zmlk/" target="blank">
-<img src="https://img.shields.io/twitter/url?label=Instagram&logo=instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fstvn_zmlk%2F" alt="github-profile-readme-instagram"/>
-</a>
-<a href="https://klizzy.com" target="blank">
-<img src="https://img.shields.io/website?label=klizzy.com&logo=google-chrome&logoColor=%23357c83&style=social&up_message=up&url=https%3A%2F%2Fklizzy.com" alt="github-profile-readme-website"/>
-</a>
-<a href="https://www.buymeacoffee.com/klizzy" target="blank">
-<img src="https://img.shields.io/twitter/url?color=%23FFDD00&label=Buy%20me%20a%20coffee&logo=buymeacoffee&logoColor=%23fa8140&style=social&url=https%3A%2F%2Fwww.buymeacoffee.com%2Fklizzy" alt="github-profile-readme-coffee"/>
-</a>
+<a href="https://twitter.com/zyr0error" target="blank"><img src="https://img.shields.io/twitter/url?label=%40zyr0error&url=https%3A%2F%2Ftwitter.com%2Fzyr0error" alt="github-profile-readme--twitter" /></a>
+<a href="https://www.linkedin.com/in/steven-zemelka-82807b279" target="blank"><img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsteven-zemelka-82807b279%2F" alt="github-profile-readme-linkedin" /></a>
+<a href="https://www.xing.com/profile/Steven_Zemelka/" target="blank"><img src="https://img.shields.io/twitter/url?label=Xing&logo=xing&logoColor=%23006567&style=social&url=https%3A%2F%2Fwww.xing.com%2Fprofile%2FSteven_Zemelka%2F" alt="github-profile-readme-instagram" /></a>
+<a href="https://www.instagram.com/stvn_zmlk/" target="blank"><img src="https://img.shields.io/twitter/url?label=Instagram&logo=instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fstvn_zmlk%2F" alt="github-profile-readme-instagram" /></a>
+<a href="https://klizzy.com" target="blank"><img src="https://img.shields.io/website?label=klizzy.com&logo=google-chrome&logoColor=%23357c83&style=social&up_message=up&url=https%3A%2F%2Fklizzy.com" alt="github-profile-readme-website" /></a>
+<a href="https://www.buymeacoffee.com/klizzy" target="blank"><img src="https://img.shields.io/twitter/url?color=%23FFDD00&label=Buy%20me%20a%20coffee&logo=buymeacoffee&logoColor=%23fa8140&style=social&url=https%3A%2F%2Fwww.buymeacoffee.com%2Fklizzy" alt="github-profile-readme-coffee" /></a>
 </p>
 <hr/>
 <p align="center">
